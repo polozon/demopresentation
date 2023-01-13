@@ -2,21 +2,32 @@
 
 ---
 
-## Peter Olofsson
+<h1>Monty hall problem</h1>
 
-### Working with SW
-<!-- .slide: style="text-align: left;"> -->
-<i class="fab fa-twitter"></i><a href="https://twitter.com/none">  @none</a><br>
-<i class="fas fa-envelope"></i>  peter@none.com<br>
-<i class="fab fa-github"></i><a href="https://github.com/polozon">  github.com/polozon</a>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
+<span class="fragment"></span>
 
----
+<div data-animate data-src="images/decisiontree.svg">
+<!--
+{ "setup": [
+{ "element": "#Price", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "0"} ] },
+{ "element": "#Host1", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "1"} ] },
+{ "element": "#Choice11", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "2"} ] },
+{ "element": "#Choice12", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "3"} ] },
+{ "element": "#Host2", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "4"} ] },
+{ "element": "#Choice2", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "5"} ] },
+{ "element": "#Host3", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "6"} ] },
+{ "element": "#Choice3", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "7"} ] }
+]}
+-->
+</div>
 
-## Agenda
-<!-- .slide: style="text-align: left;"> -->
-- Something 1<br>
-- Something 2<br>
-- Something 3<br>
 
 ---
 
@@ -120,3 +131,22 @@ Then, with a single command, you create and start all the services from your con
 <p align="center">
 <img src="images/dockerdeepdive_qr_code.png" />
 </p>
+
+---
+
+## Peter Olofsson
+
+### Working with SW
+<!-- .slide: style="text-align: left;"> -->
+<i class="fab fa-twitter"></i><a href="https://twitter.com/none">  @none</a><br>
+<i class="fas fa-envelope"></i>  peter@none.com<br>
+<i class="fab fa-github"></i><a href="https://github.com/polozon">  github.com/polozon</a>
+
+---
+
+## Agenda
+<!-- .slide: style="text-align: left;"> -->
+- Something 1<br>
+- Something 2<br>
+- Something 3<br>
+
